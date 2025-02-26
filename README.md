@@ -1,2 +1,17 @@
-# Java-Practice
-A Collection Of Java Practice Programs Covering Core Concepts Like OOP, Data Structures, Algorithms, And Problem Solving. Ideal For Beginners And Those Brushing Up On Java Skills.
+Java Practice Repository
+
+Overview
+
+This repository contains a collection of Java practice programs designed to reinforce core Java concepts, improve problem-solving skills, and provide hands-on experience. It includes topics such as Object-Oriented Programming (OOP), data structures, algorithms, and more.
+
+Contents
+
+Basics: Variables, data types, loops, conditionals, functions.
+
+Object-Oriented Programming (OOP): Classes, objects, inheritance, polymorphism, encapsulation, abstraction.
+
+Data Structures: Arrays, linked lists, stacks, queues, trees, graphs.
+
+Algorithms: Sorting, searching, recursion, dynamic programming.
+
+Advanced Topics: Multithreading, file handling, exception handling, JDBC.
