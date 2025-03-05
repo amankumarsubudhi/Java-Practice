@@ -19,6 +19,7 @@ public class Java_Practice_8 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter The Value Of N = ");
         n = sc.nextInt();
+        sc.close();
         sum = Fibonacci(n);
         System.out.println("Sum = " + sum);
     }

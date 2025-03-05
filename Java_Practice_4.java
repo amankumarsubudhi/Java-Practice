@@ -23,6 +23,7 @@ public class Java_Practice_4 {
         a = sc.nextInt();
         System.out.print("B = ");
         b = sc.nextInt();
+        sc.close();
 
         System.out.println("Before Swapping Value Of A and B");
         System.out.println("A = "+a);

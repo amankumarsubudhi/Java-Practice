@@ -18,6 +18,7 @@ public class Java_Practice_6 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter A Number = ");
         num = sc.nextInt();
+        sc.close();
         result = Factorial(num);
         System.out.println("Factorial = " + result);
     }

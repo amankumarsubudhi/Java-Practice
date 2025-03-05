@@ -30,6 +30,7 @@ public class Java_Practice_3 {
         System.out.print("Enter The Value Of B = ");
 
         b = sc.nextInt();
+        sc.close();
 
         System.out.println("Before Swapping Value Of A And B");
         System.out.println("A = "+a);

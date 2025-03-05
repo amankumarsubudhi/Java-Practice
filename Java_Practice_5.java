@@ -22,7 +22,7 @@ public class Java_Practice_5 {
     }
 
     public static void main(String args[]){
-        int decnum,binnum;
+        int decnum;
 
         Scanner sc = new Scanner(System.in);
 
@@ -30,6 +30,7 @@ public class Java_Practice_5 {
 
         System.out.print("Decimal = ");
         decnum = sc.nextInt();
+        sc.close();
 
         DectoBin(decnum);     
 

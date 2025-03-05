@@ -20,6 +20,7 @@ public class Java_Practice_2 {
         System.out.print("Enter The Value Of B = ");
 
         b = sc.nextInt();
+        sc.close();
 
         System.out.println("Addition Is = "+add(a,b));
 

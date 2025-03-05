@@ -25,6 +25,7 @@ public class Java_Practice_7 {
 
         System.out.print("Enter The Time Period (In Months) = ");
         t = sc.nextInt();
+        sc.close();
 
         si = si(p,t,r);
 
