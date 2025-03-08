@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-public class Java_Pratice_15 {
+public class Java_Practice_15 {
 
     public static void main(String[] args) {
         int a[] = {4,6,2,74,58,24,23,33,18,5,6};
